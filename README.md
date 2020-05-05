@@ -21,7 +21,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 osif.py
+$ python2 zyan.py
 ```
 
 * if you are confused how to use it, please type 'help' to display the help menu
